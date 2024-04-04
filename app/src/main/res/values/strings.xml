@@ -6,5 +6,6 @@
     <string name="btnMinus">빼기</string>
     <string name="btnMultiply">곱하기</string>
     <string name="btnDivide">나누기</string>
+    <string name="btnMod">나머지 값</string>
     <string name="textResult">계산 결과: </string>
 </resources>
